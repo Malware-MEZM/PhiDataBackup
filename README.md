@@ -1,5 +1,2 @@
 # PhiDataBackup
-|This software is for Phigros userdata backup/restore use|
-|This app Request root|
-|code on E4A|
-///Only support chinese language yet///
+This software is for Phigros userdata backup/restore use[Request root],made by E4A
